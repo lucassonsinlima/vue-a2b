@@ -1,3 +1,5 @@
+This is a fork of vue-a2b, since the original is abandoned
+
 # vue-a2b
 
 > split testing for Vuejs
